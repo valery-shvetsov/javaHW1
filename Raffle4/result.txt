@@ -1,0 +1,131 @@
+Приз выдан, в корзину добавлена игрушка
+id=1{name=bear, weight=2}
+id=2{name=yula, weight=2}
+id=7{name=gun, weight=2}
+id=8{name=bike, weight=8}
+id=9{name=monopoly, weight=1}
+id=13{name=doll, weight=1}
+id=15{name=ball, weight=1}
+id=16{name=bike, weight=8}
+id=17{name=boardGame, weight=1}
+id=18{name=ball, weight=1}
+Приз выдан, в корзину добавлена игрушка
+id=1{name=bear, weight=2}
+id=7{name=gun, weight=2}
+id=8{name=bike, weight=8}
+id=9{name=monopoly, weight=1}
+id=13{name=doll, weight=1}
+id=15{name=ball, weight=1}
+id=16{name=bike, weight=8}
+id=17{name=boardGame, weight=1}
+id=18{name=ball, weight=1}
+id=19{name=bear, weight=2}
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+Приз выдан, в корзину добавлена игрушка
+
+
+
+
+
+
+
+
+
+
+Приз выдан, в корзину добавлена игрушка
+
+
+
+
+
+
+
+
+
+
+Приз выдан, в корзину добавлена игрушка
+
+
+
+
+
+
+
+
+
+
+Приз выдан, в корзину добавлена игрушка
+
+
+
+
+
+
+
+
+
+
+Приз выдан, в корзину добавлена игрушка
+
+
+
+
+
+
+
+
+
+
+Приз выдан, в корзину добавлена игрушка
+
+
+
+
+
+
+
+
+
+
+Приз выдан, в корзину добавлена игрушка
+id=1{name=bear, weight=2}
+id=2{name=yula, weight=2}
+id=3{name=ball, weight=1}
+id=4{name=car, weight=3}
+id=5{name=doll, weight=1}
+id=6{name=boardGame, weight=1}
+id=7{name=gun, weight=2}
+id=8{name=bike, weight=8}
+id=10{name=bunny, weight=1}
+id=11{name=yula, weight=2}
+Приз выдан, в корзину добавлена игрушка
+id=1{name=bear, weight=2}
+id=2{name=yula, weight=2}
+id=3{name=ball, weight=1}
+id=4{name=car, weight=3}
+id=5{name=doll, weight=1}
+id=7{name=gun, weight=2}
+id=8{name=bike, weight=8}
+id=10{name=bunny, weight=1}
+id=11{name=yula, weight=2}
+id=12{name=car, weight=3}
+Приз выдан, в корзину добавлена игрушка
+id=1{name=bear, weight=2}
+id=2{name=yula, weight=2}
+id=3{name=ball, weight=1}
+id=4{name=car, weight=3}
+id=5{name=doll, weight=1}
+id=7{name=gun, weight=2}
+id=10{name=bunny, weight=1}
+id=11{name=yula, weight=2}
+id=12{name=car, weight=3}
+id=13{name=boardGame, weight=1}
